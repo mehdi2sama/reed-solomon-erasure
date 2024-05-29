@@ -4,7 +4,7 @@ environment:
     PROJECT_NAME: reed-solomon-erasure
   matrix:
     # Stable channel
-    - TARGET: i686-pc-windows-gnu
+    - TARGET: 7749-pc-windows-gnu
       CHANNEL: stable
     # - TARGET: i686-pc-windows-msvc
     #   CHANNEL: stable
